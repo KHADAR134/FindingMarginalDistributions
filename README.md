@@ -1,3 +1,4 @@
+# EXP NO-3
 # Marginal distributions and correation coefficient  
 
 # Aim : 
